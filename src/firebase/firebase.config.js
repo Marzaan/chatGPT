@@ -3,12 +3,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCC5sNnkjhZn2SpJzV7sK2oVNc0LSVQFis",
-  authDomain: "rechat-f4efd.firebaseapp.com",
-  projectId: "rechat-f4efd",
-  storageBucket: "rechat-f4efd.appspot.com",
-  messagingSenderId: "835052440457",
-  appId: "1:835052440457:web:20837384a477aa9581ef58"
+  apiKey: "AIzaSyCaAMI3PoUUNnZG_rpYo0in3fmyF1eLcEc",
+  authDomain: "chatgpt-proposal.firebaseapp.com",
+  projectId: "chatgpt-proposal",
+  storageBucket: "chatgpt-proposal.appspot.com",
+  messagingSenderId: "154665964816",
+  appId: "1:154665964816:web:e836347f0fcfb30b3ec195",
+  measurementId: "G-TS29CZWW8W"
 };
 
 // Initialize Firebase
